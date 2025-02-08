@@ -8,7 +8,7 @@ Features:
 -Data entry done by users choice, either cell by cell input, or a user form 
 -Customer orders tracked by quantity, date, tag numbers, phone numbers, etc
 -Given conditional statements in VBA (ex. if Status = 'Paid'), aggregations run on data to calculate total revenue, etc
-- Buttons and user from added on to allow user to interact with the invoice generator
+-Buttons and user from added on to allow user to interact with the invoice generator
   
 Install/setup
 -Make sure macros are enabled
