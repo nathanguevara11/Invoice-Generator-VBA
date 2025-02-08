@@ -4,13 +4,13 @@ The pupose of this project was to create a digital record of customer orders. At
 Overwiew: 
 This Excel VBA program stores cutomer and order data, tracks order details, and runs statisical functions. This program lead to more efficient order management, status communcation, etc. 
 
-Features: 
--Data entry done by users choice, either cell by cell input, or a user form 
--Customer orders tracked by quantity, date, tag numbers, phone numbers, etc
--Given conditional statements in VBA (ex. if Status = 'Paid'), aggregations run on data to calculate total revenue, etc
--Buttons and user from added on to allow user to interact with the invoice generator
+Features
+Data entry done by users choice, either cell by cell input, or a user form 
+Customer orders tracked by quantity, date, tag numbers, phone numbers, etc
+Given conditional statements in VBA (ex. if Status = 'Paid'), aggregations run on data to calculate total revenue, etc
+Buttons and user from added on to allow user to interact with the invoice generator
   
 Install/setup
--Make sure macros are enabled
--Open excel workbook 
--Follow layout or userform to input correct data
+Make sure macros are enabled
+Open excel workbook 
+Follow layout or userform to input correct data
